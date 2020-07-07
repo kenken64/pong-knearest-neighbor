@@ -1,4 +1,4 @@
-## k nearest neightbor pong game
+## k nearest neighbor pong game
 
 * Record into csv , using mouse to play
 
