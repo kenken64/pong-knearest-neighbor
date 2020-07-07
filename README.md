@@ -1,7 +1,15 @@
 ## k nearest neightbor pong game
 
-* Record into csv 
+* Record into csv , using mouse to play
 
-* Then use back the data set and play itself
+```
+$ python record.py
+```
+
+* Then use back the saved data set and play itself
+
+```
+$ python game.py
+```
 
 
